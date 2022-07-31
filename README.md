@@ -26,3 +26,10 @@ Here we can see the most common days our customers will be looking for bikes bro
 
 ![Trips by Weekday per Gender](https://github.com/JoshTrewhella/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.PNG)
 Here we can see the most common days our customers will be looking for bikes.
+
+## Summary
+We can see from our analysis that males were the most common customer we can expect for bike rides.
+
+Based on the common times on our heatmap (6-9AM and 5-7PM), it could be that our bikes will be used most commonly for commuting purposes to and from work. 
+
+I would suggest additionally including Birth Year in our existing analysis to have a deeper understanding of our customer base and what our service will be used for. We could also use User Type and Birth Year to see if there is a correlation with older or younger customers subcribing to our service.
